@@ -12,7 +12,7 @@ Endpoint enumeration
 
 ## 🏭 Arquitetura
 
-<img src="https://i.ibb.co/vcj1dkQ/codex.png">
+<img src="https://i.ibb.co/QDjzFSr/codex.png">
 
 <br>
 
