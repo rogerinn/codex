@@ -51,7 +51,7 @@ Melhorias e features:
 - Tecnologia:
   - **Criação da wordlist**.  
   - **Otimização de leitura**. 
-  - **Separação de cluster**.  
+  - **Separação de Worker threads**.  
   - **Automação da wordlist**
   - **Documentação**: Criação de documentação de uso e melhorias (VuePress/Docussauro).
 
