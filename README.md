@@ -11,10 +11,11 @@ Endpoint enumeration
 ## :rocket: Tecnologias
 
 - [Node.JS](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/)
 
 ## 💾 Fluxo das branchs
 
-<img src="/public/branch.png">
+<img src="https://leanpub.com/site_images/git-flow/git-workflow-release-cycle-2feature.png">
 
 <br>
 
@@ -42,12 +43,17 @@ Para rodar os testes, você precisa ter executar o passo anterior e depois segui
 
 Melhorias e features:
 
-- Produto 
+- Produto:
   - **DNS Recon**.  
   - **DNS Enumeration**. 
   - **SSL certificate**.  
   - **Documentação**: Criação de documentação de uso e melhorias (VuePress/Docussauro).
-- Tech
+- Tecnologia:
+  - **Criação da wordlist**.  
+  - **Otimização de leitura**. 
+  - **Separação de cluster**.  
+  - **Automação da wordlist**
+  - **Documentação**: Criação de documentação de uso e melhorias (VuePress/Docussauro).
 
 <br>
 
