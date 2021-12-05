@@ -8,6 +8,14 @@
 # Codex
 Endpoint enumeration
 
+<br>
+
+## 🏭 Arquitetura
+
+<img src="https://ibb.co/grRyWJP">
+
+<br>
+
 ## :rocket: Tecnologias
 
 - [Node.JS](https://nodejs.org/en/)
