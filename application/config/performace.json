@@ -1,0 +1,5 @@
+{
+  "workers": {
+    "max_workers": 1  
+  }
+}

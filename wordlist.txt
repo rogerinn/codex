@@ -1,0 +1,3 @@
+admin
+teste
+wp-json

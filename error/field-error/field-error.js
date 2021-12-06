@@ -1,0 +1,1 @@
+export const fieldError = message => ({ status: 'Field Error', code: '3', message })
