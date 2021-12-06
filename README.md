@@ -28,26 +28,6 @@ Endpoint enumeration
 
 <br>
 
-## ☣️ Testes
-
-Para rodar os testes, você precisa ter executar o passo anterior e depois seguir os passos abaixo.
-
-1) Testes unitários 
-    ```bash
-    yarn test:unit
-    ```
-2) Testes e integração
-    ```bash
-    yarn test:integration
-    ```
-
-3) Cobertura de testes
-    ```bash
-    yarn test:ci
-    ```
-
-<br>
-
 ## 🏗️ Roadmap
 
 Melhorias e features:
