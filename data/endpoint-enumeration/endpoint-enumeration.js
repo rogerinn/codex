@@ -3,8 +3,8 @@ export const mainProcess = (wordlist, http) => {
   const main = async input => {
     console.info('Buscando....')
     for(const word of wordlist){
-      console.log(`Buscando com: ${word}`)
-      for(const method of [http.GET, http.POST, http.DELETE, http.PATCH, http.PUT]){
+      for(const method of [http.GET]){
+        if(word) console.info(`Buscando com: ${word}`)
         const isValid = await method(`${input}/${word}`)
         if(isValid) result.push({ url: `${input}/${word}`, statusCode: isValid, method })
       }
