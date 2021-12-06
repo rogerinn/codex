@@ -8,6 +8,7 @@ export const adapterEntry = async (question, controller) => {
     if(response) {
       console.log(response)
       entry.close()
+      return process.exit()
     }
   })
 }
