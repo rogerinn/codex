@@ -20,6 +20,7 @@ Endpoint enumeration
 
 - [Node.JS](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/)
+- [Node-Fetch](https://www.npmjs.com/package/node-fetch#post-with-json)
 
 ## 💾 Fluxo das branchs
 
