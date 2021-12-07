@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KGjpQsL/code.png">
+<img src="https://i.ibb.co/fkYcwRm/codex1.png">
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/rogerinn/codex?color=black&label=size">
   <img src="https://img.shields.io/badge/Author-rogerinn-black">
