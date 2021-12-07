@@ -6,7 +6,7 @@ services:
     ports:
       - "6379:6379"
     volumes:
-      - ./redis-vol:/data
+      - /usr/redis-vol:/data
     networks: 
       - codex_network  
 networks: 
