@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  redis:
+    image: redis
+    command: redis-server
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./redis-vol:/data
+    networks: 
+      - codex_network  
+networks: 
+  codex_network:  
