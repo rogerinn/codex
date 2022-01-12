@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KGjpQsL/code.png"></center>
+<img src="https://media.discordapp.net/attachments/638203747608166442/917464200379510824/20_Sem_Titulo3_20211206141348.png"></center>
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/rogerinn/codex?color=black&label=size">
   <img src="https://img.shields.io/badge/Author-rogerinn-black">
