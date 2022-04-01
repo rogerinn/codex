@@ -11,12 +11,6 @@ Endpoint enumeration
 
 <br>
 
-## 🏭 Arquitetura
-
-<img src="https://i.ibb.co/wsjw0q7/codex.png">
-
-<br>
-
 ## :rocket: Tecnologias
 
 - [Node.JS](https://nodejs.org/en/)
